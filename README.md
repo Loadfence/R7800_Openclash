@@ -2,11 +2,13 @@
 
 # Special Statement
 
+This project is modified from Build-OpenWrt-R7800，thank you very much for the work of brick713 🙏 。
+
 This project is modified from [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)，thank you very much for the work of P3TERX 🙏 。
 
 ## Build-OpenWrt-R7800
 
-Build OpenWrt using GitHub Actions For Nighthawk X4S R7800
+Build OpenWrt using GitHub Actions For Nighthawk X4S R7800, focused on OpenClash.
 
 ## Include Plug-in List
 
