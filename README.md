@@ -2,7 +2,7 @@
 
 # Special Statement
 
-This project is modified from Build-OpenWrt-R7800，thank you very much for the work of brick713 🙏 。
+This project is modified from [brick713/Build-OpenWrt-R7800](https://github.com/brick713/Build-OpenWrt-R7800)，thank you very much for the work of brick713 🙏 。
 
 This project is modified from [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)，thank you very much for the work of P3TERX 🙏 。
 
